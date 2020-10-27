@@ -9,8 +9,8 @@ const Nav = (props) =>{
 
 	const pages = [
 		 'Home',
-		 'About-the-Author',
-		 'About-the-Book',
+		 'author',
+		 'book',
 		 'Contact'
 	]
 
@@ -44,7 +44,7 @@ const Nav = (props) =>{
 				</li>
 
 				<li>
-					<Link to="/about-the-author">
+					<Link to="/author">
 						Author
 					</Link>
 				</li>
@@ -56,7 +56,7 @@ const Nav = (props) =>{
 				</li>
 
 				<li>
-					<Link to="/about-the-book">
+					<Link to="/book">
 						Book
 					</Link>
 				</li>
