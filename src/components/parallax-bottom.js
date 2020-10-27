@@ -7,7 +7,7 @@ import React from 'react'
             <section className="parallax-bottom">
                 <div className="flex-container">
                     <h1>
-                        “Sugar and spice Don’t play nice”
+                        “Sugar and spice don’t play nice”
                         <span className="italic-tag span-verse">
                             Diana Harvey Darrisaw
                         </span>

@@ -33,10 +33,10 @@ const ATB = (props)=>{
                         className="container"
                         id="book-containers" >
 
-                            <BookInfo
+                            <BookInfo 
                                 data={{
-                                    title:`The Early Years`,
-                                    spanFirst:`A Memoir`,
+                                    title:`Diabetics`,
+                                    spanFirst:`Happy eating healthy`,
                                     imgSrc: Book1,
                                     id:'',
                                     content:

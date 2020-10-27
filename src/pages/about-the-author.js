@@ -24,7 +24,7 @@ const ATB = (props)=>{
 
                             <div className="heading-quote">
                                 <h4>
-                                “Sugar and spice Don’t play nice”.
+                                “Sugar and spice don’t play nice”.
                                 </h4>
                                 <span className="ata-span-fx">
                                     author quote
@@ -34,7 +34,7 @@ const ATB = (props)=>{
 
                         <article className="article-section column" id="author">
                             <p>
-                                Hello, I am Diana Harvey Darrisaw retired patient care food service supervisor. I had worked in nutrition field for over 30 years in the Philadelphia area hospitals. A mother of 2 adulst and school. Completed courses at Penn State, Georgia State Colleges in basic nutrition. Certified nationality with the dietary mangers associations for 25 years. I attended many professional of great direction in this field by dieticians that had been part of army, navy, and air force. They shared with me their methods and experiences in nutrition care. I was blessed to have worked closely wiwth chefs, who displayed how you can eat happy and healthy.
+                                Hello, I am Diana Harvey Darrisaw retired patient care food service supervisor. I had worked in nutrition field for over 30 years in the Philadelphia area hospitals. A mother of 2 adulst and schools. Completed courses at Penn State, Georgia State Colleges in basic nutrition. Certified nationality with the dietary mangers associations for 25 years. I attended many professional of great direction in this field by dieticians that had been part of army, navy, and air force. They shared with me their methods and experiences in nutrition care. I was blessed to have worked closely wiwth chefs, who displayed how you can eat happy and healthy.
                             </p>
 
                             <p>
@@ -42,18 +42,18 @@ const ATB = (props)=>{
                             </p>
 
                             <p>
-                               I am a pubclished writer and enjoyy sharin gwith my fello seniors. Being healthy and happy in our stuggles with meal planning and enjoying tasty recipes. (Food is life). Combination of meal planning can need help by many if not knowing or understanding how to put 2 to 3 food allowances together in a meal. Such as (Diabetic, Cardio, Got, Cholesterol) each condition food allowances has to fit in the overall meal.
+                               I am a published writer and enjoy sharing with my fellow seniors. Being healthy and happy in our stuggles with meal planning and enjoying tasty recipes. (Food is life). Combination of meal planning can need help by many if not knowing or understanding how to put 2 to 3 food allowances together in a meal. Such as (Diabetic, Cardio, Gout, Cholesterol) each condition food allowances has to fit in the overall meal.
                             </p>
 
-                            <p>* My published books are: </p>
-                            <p>* Diabetics eating healthy and happy -rights and wrongs in meal planning. (Tasty) recipes. meal planning</p>
+                            <p>My published books are: </p>
+                            <p>*Diabetics eating healthy and happy -rights and wrongs in meal planning. (Tasty) recipes. Meal planning</p>
                             <p>*Eating with dyalysis and diabetes-Being sure in food choices you understand for 2 not one diet. (need alertness in daily meal planning).</p>
                             <p>*Seniors struggling to stay healthy and happy- (important) formation needed in staying healthy with happy.</p>
                             <p>Recipes and meal planning- recipes that are easy, tasty, and balancing your meals.</p>
                             <p>Salad Galore and more- salads done in a (variety ways) but are healthy, pointing out "what" certain food have in them (nutrition). (Attraction cover with a healhty happy inside)</p>
                             <p>Eggs galore and more- for the "not too many egg yolks" person. Ways to have the protein from the egg without the</p>
                             <p>Uplifting Prayers- prayers can uplift.</p>
-                            <p>Gout doesn't live here anymore... for now. information that I have found to help (very well) in this condition.</p>
+                            <p>Gout doesn't live here anymore... for now. Information that I have found to help (very well) in this condition.</p>
 
                             <p>
                                 <span className="author-name">

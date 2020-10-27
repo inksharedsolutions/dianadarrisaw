@@ -15,7 +15,7 @@ const Banner = ()=>{
                                 </p> 
 
                                 <h1>
-                                   DIABETES
+                                   DIABETICS
                                 </h1>
 
                                 <p className="right-sub-text">

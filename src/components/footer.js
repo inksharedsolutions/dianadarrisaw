@@ -99,7 +99,7 @@ const Footer = ()=>{
                             </li>
                             <li>
                                 <Link to="/about-the-book">
-                                    Books
+                                    About the Book
                                 </Link>
                             </li>
                             <li>
