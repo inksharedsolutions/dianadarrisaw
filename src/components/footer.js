@@ -115,6 +115,8 @@ const Footer = ()=>{
                         <h5>Newsletter</h5>
                             <p>Stay up to date with the latest from me</p>
                         <Newsletter/>
+
+                        <p>Visit <a href="http://ourseniorhood.com/" target="_blank" rel="noreferrer" className="visit-link">ourseniorhood.com</a> for more information</p>
                     </div>
                 </div>
 
